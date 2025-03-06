@@ -1,1 +1,1 @@
-# Summer24REU_PythonIntro
+# Ice and Climate Summer 24 REU Python Introdudction
